@@ -5,6 +5,6 @@ define("PASS_DB", '');
 define("DB", 'bookstore');
 
 define ('ROOT', dirname(__FILE__));
-define('BASE_URL', 'https://main--ah-dtdm.netlify.app/');
+define('BASE_URL', 'https://ah-dtdm.netlify.app');
 define('UPLOAD_IMG', ROOT .'/images/book');
 
