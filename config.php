@@ -5,6 +5,6 @@ define("PASS_DB", '');
 define("DB", 'bookstore');
 
 define ('ROOT', dirname(__FILE__));
-define('BASE_URL', 'http://mvc.local/MVC3');
+define('BASE_URL', 'https://main--ah-dtdm.netlify.app/');
 define('UPLOAD_IMG', ROOT .'/images/book');
 
